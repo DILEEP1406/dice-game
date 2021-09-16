@@ -1,3 +1,3 @@
 # dice-game
 
-http://dice-game-dileep.herokuapp.com/
+https://dice-game-dileep.netlify.app/
